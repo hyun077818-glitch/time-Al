@@ -1,0 +1,8 @@
+{
+  "name": "CineBoard AI - Script to Storyboard Studio",
+  "description": "Upload screenplays and scripts to generate cinematic shot-by-shot storyboard sequences with Gemini 3 Pro high-resolution imaging and an interactive AI Director consultant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
